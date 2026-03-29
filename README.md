@@ -66,8 +66,8 @@ grid_search=GridSearchCV(svm, param_grid, cv=5, scoring='accuracy')
 grid_search.fit(X_train, y_train)
 
 best_model = grid_search.best_estimator_
-print('Name: SAIGOKUL>K')
-print('Reg. No: 212225240131')
+print('Name: GOWTHAM U')
+print('Reg. No: 212225040099')
 print("Best parameters:",grid_search.best_params_)
 y_pred=best_model.predict(X_test)
 
@@ -87,8 +87,11 @@ plt.show()
 ```
 
 ## Output:
-<img width="793" height="548" alt="image (5)" src="https://github.com/user-attachments/assets/8fc0a5be-6b93-4932-b0e7-6ba7d5e4cce8" />
-<img width="699" height="654" alt="image-2 (3)" src="https://github.com/user-attachments/assets/db3e6406-fc68-4f6b-8e8f-45182a9bded6" />
+<img width="1465" height="557" alt="Screenshot 2026-03-29 222117" src="https://github.com/user-attachments/assets/e26f59fa-165f-444e-809c-6415e53c4e74" />
+<img width="1408" height="761" alt="Screenshot 2026-03-29 222101" src="https://github.com/user-attachments/assets/8bdb6188-5463-4600-9bdb-5be2dfa128b5" />
+<img width="1327" height="515" alt="Screenshot 2026-03-29 222132" src="https://github.com/user-attachments/assets/0dc40d7d-d3a3-4ad7-a82d-c8ad0284d005" />
+
+
 
 
 
