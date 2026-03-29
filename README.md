@@ -87,9 +87,9 @@ plt.show()
 ```
 
 ## Output:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="793" height="548" alt="image (5)" src="https://github.com/user-attachments/assets/8fc0a5be-6b93-4932-b0e7-6ba7d5e4cce8" />
+<img width="699" height="654" alt="image-2 (3)" src="https://github.com/user-attachments/assets/db3e6406-fc68-4f6b-8e8f-45182a9bded6" />
+
 
 
 ## Result:
