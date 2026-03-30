@@ -66,8 +66,6 @@ grid_search=GridSearchCV(svm, param_grid, cv=5, scoring='accuracy')
 grid_search.fit(X_train, y_train)
 
 best_model = grid_search.best_estimator_
-print('Name: GOWTHAM U')
-print('Reg. No: 212225040099')
 print("Best parameters:",grid_search.best_params_)
 y_pred=best_model.predict(X_test)
 
